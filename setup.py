@@ -1,7 +1,22 @@
 from distutils.core import setup
 setup(
   name = 'Yowsup',
-  packages = ['Yowsup'],
+  packages = [
+    'Yowsup',
+    'Yowsup.Auth',
+    'Yowsup.Auth.mechanisms',
+    'Yowsup.Common',
+    'Yowsup.Common.Http',
+    'Yowsup.ConnectionIO',
+    'Yowsup.Contacts',
+    'Yowsup.Interfaces',
+    'Yowsup.Interfaces.Dbus',
+    'Yowsup.Interfaces.Lib',
+    'Yowsup.Media',
+    'Yowsup.Registration',
+    'Yowsup.Registration.v1',
+    'Yowsup.Registration.v2',
+  ],
   version = '0.1',
   maintainer = 'Julian Perelli',
   maintainer_email = 'jperelli@gmail.com',
