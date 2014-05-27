@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name = 'yowsup',
-  packages = ['yowsup'],
+  name = 'Yowsup',
+  packages = ['Yowsup'],
   version = '0.1',
   maintainer = 'Julian Perelli',
   maintainer_email = 'jperelli@gmail.com',
