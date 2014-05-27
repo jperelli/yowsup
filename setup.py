@@ -6,6 +6,6 @@ setup(
   description = 'A library to use whatsapp from python, and a cli tool',
   url = 'https://github.com/jperelli/yowsup',
   download_url = 'https://github.com/jperelli/yowsup/tarball/0.1',
-  keywords = ['whatsapp', 'API', 'wrapper'. 'cli'],
+  keywords = ['whatsapp', 'API', 'wrapper', 'cli'],
   classifiers = [],
 )
