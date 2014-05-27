@@ -22,7 +22,7 @@ setup(
   maintainer_email = 'jperelli@gmail.com',
   description = 'A library to use whatsapp from python',
   url = 'https://github.com/jperelli/yowsup',
-  download_url = 'https://github.com/jperelli/yowsup/tarball/0.1',
+  download_url = 'https://github.com/jperelli/yowsup/tarball/0.2',
   keywords = ['whatsapp', 'API', 'wrapper'],
   classifiers = [],
 )
