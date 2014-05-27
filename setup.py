@@ -17,7 +17,7 @@ setup(
     'Yowsup.Registration.v1',
     'Yowsup.Registration.v2',
   ],
-  version = '0.1',
+  version = '0.2',
   maintainer = 'Julian Perelli',
   maintainer_email = 'jperelli@gmail.com',
   description = 'A library to use whatsapp from python',
