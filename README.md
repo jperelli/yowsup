@@ -1,14 +1,12 @@
-## Yowsup opened Whatsapp service under platforms!
+## This is a repo that holds the pypi yowsup package
 
-## About Whatsapp
-According to [Whatsapp.com](http:/www.whatsapp.com):
+Install this branch using pip
 
-WhatsApp Messenger is a cross-platform mobile messaging app which allows you to exchange messages without having to pay for SMS. WhatsApp Messenger is available for iPhone, BlackBerry, Android, Windows Phone and Nokia and yes, those phones can all message each other! Because WhatsApp Messenger uses the same internet data plan that you use for email and web browsing, there is no cost to message and stay in touch with your friends.
+pip install yowsup
 
-In addition to basic messaging WhatsApp users can create groups, send each other unlimited images, video and audio media messages.
 
 ## About Yowsup
-Yowsup is a python library that allows you to do all the previous in your own app. Yowsup allows you to login and use the Whatsapp service and provides you with all capabilities of an official Whatsapp client, allowing you to create a full-fledged custom Whatsapp client.
+Yowsup allows you to login and use the Whatsapp service and provides you with all capabilities of an official Whatsapp client, allowing you to create a full-fledged custom Whatsapp client.
 
 A solid example of Yowsup's usage is [Wazapp](https://github.com/tgalal/wazapp).  Wazapp is full featured Whatsapp client that is being used by hundreds of thousands of people around the world. Yowsup is born out of the Wazapp project. Before becoming a separate project, it was only the engine powering Wazapp. Now that it matured enough, it was separated into a separate project, allowing anyone to build their own Whatsapp client on top of it. Having such a popular client as Wazapp, built on Yowsup, helped bring the project into a much advanced, stable and mature level, and ensures its continuous development and maintaince.
 
